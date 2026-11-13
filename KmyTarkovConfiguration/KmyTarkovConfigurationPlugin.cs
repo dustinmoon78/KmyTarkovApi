@@ -8,7 +8,7 @@ using KmyTarkovConfiguration.Patches;
 
 namespace KmyTarkovConfiguration
 {
-    [BepInPlugin("com.kmyuhkyuk.kmytarkovconfiguration", "KmyTarkovConfiguration", "2.0.0")]
+    [BepInPlugin("com.dustinmoon78.kmytarkovconfiguration", "KmyTarkovConfiguration", "2.0.0")]
     [EFTConfigurationPluginAttributes("https://hub.sp-tarkov.com/files/file/1215-kmy-tarkov-api")]
     public class KmyTarkovConfigurationPlugin : BaseUnityPlugin
     {

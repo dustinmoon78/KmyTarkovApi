@@ -2,7 +2,7 @@
 
 namespace KmyTarkovUtils
 {
-    [BepInPlugin("com.kmyuhkyuk.kmytarkovutils", "KmyTarkovUtils", "2.0.0")]
+    [BepInPlugin("com.dustinmoon78.kmytarkovutils", "KmyTarkovUtils", "2.0.0")]
     public class KmyTarkovUtilsPlugin : BaseUnityPlugin
     {
     }
